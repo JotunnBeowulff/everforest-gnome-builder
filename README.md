@@ -4,12 +4,17 @@
 
 ## Installation
 ### In newer versions of Builder
+#### The graphical way
 1. Download the XML file
 2. Open Builder and click 'Preferences' > 'Appearance'
 3. Go to the 'Color' section
 4. Drag and drop the downloaded file from Files to there. It should be available now.
+#### With the terminal
+Run `mkdir -p ~/.local/share/gtksourceview-5/styles && curl -o ~/.local/share/gtksourceview-5/styles/Everforest\ Dark\ Medium.xml ` in your terminal **OR**:
+1. Download the XML file
+2. Copy the file to `~/.local/share/gtksourceview-5/styles/` or `~/.var/app/org.gnome.Builder/config/gtksourceview-5/styles/`
 
 ### In older versions
 1. Download the XML file
-2. Copy it to `~/.local/share/gtksourceview-4/styles` or `~/.local/share/gtksourceview-5/styles`
+2. Copy it to `~/.local/share/gtksourceview-3.0/styles/` or `~/.var/app/org.gnome.Builder/config/gtksourceview-3.0/styles/`
 3. Restart Builder (if running) and select the theme.
