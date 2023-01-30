@@ -12,7 +12,7 @@
 #### With the terminal
 Run 
 ```bash
-mkdir -p ~/.local/share/gtksourceview-5/styles && curl -o ~/.local/share/gtksourceview-5/styles/Everforest\ Medium\ Dark.xml "https://raw.githubusercontent.com/ghostcrafter551/everforest-gnome-builder/main/Everforest%20Medium%20Dark.xml"
+mkdir -p ~/.local/share/gtksourceview-5/styles && curl -o ~/.local/share/gtksourceview-5/styles/Everforest\ Medium\ Dark.xml "https://raw.githubusercontent.com/ghostcrafter551/everforest-gnome-builder/main/everforest-medium-dark.xml"
 ```
 in your terminal **OR**:
 1. Download the XML file
