@@ -31,7 +31,7 @@
   <style name="current-line-number"         foreground="9DA9A0" background="#343F44"/>
   <style name="line-numbers"                foreground="#7A8478" background="#2D353B"/>
   <style name="draw-spaces"                 foreground="#4f535f"/>
-  <style name="background-pattern"          background="#2f2f2f"/>
+  <style name="background-pattern"          background="#31393f"/>
   <style name="bracket-match"               foreground="#56635f" bold="true"/>
   <style name="bracket-mismatch"            underline="error" bold="true"/>
   <style name="right-margin"                foreground="#9a9a9a" background="#9a9a9a"/>
